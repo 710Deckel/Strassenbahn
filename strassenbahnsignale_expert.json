@@ -1,0 +1,596 @@
+{
+  "meta": {
+    "version": "3.0 - FINAL 129",
+    "titel": "Straßenbahnsignale Deutschland - Expert",
+    "quelle": "Wikipedia + eigene SVG-Sammlung",
+    "url": "https://de.wikipedia.org/wiki/Straßenbahnsignale_in_Deutschland",
+    "datum": "2025-12-26",
+    "beschreibung": "Vollständige Sammlung ALLER 129 Straßenbahn-Signale inkl. Farbvarianten und Kombinationen",
+    "regelwerk": "BOStrab + DFStrab + Regional",
+    "hinweis": "Passend zu den 129 SVG-Dateien im Repository",
+    "github": "https://github.com/710Deckel/Strassenbahn"
+  },
+  "anzahl": 113,
+  "kategorien": {
+    "Hauptsignale": 3,
+    "Vorsignale": 3,
+    "Fahrsignale": 8,
+    "Abfertigungssignale": 6,
+    "Geschwindigkeitssignale": 8,
+    "Schutzsignale": 11,
+    "Schaltsignale": 12,
+    "Weichensignale": 17,
+    "Bahnübergänge": 3,
+    "Sondersignale": 17,
+    "Historisch DDR": 11,
+    "Regional": 11,
+    "Kombinationen": 3
+  },
+  "signale": [
+    {
+      "kurzzeichen": "H 0",
+      "bezeichnung": "Halt (Hauptsignal)",
+      "kategorie": "Hauptsignale"
+    },
+    {
+      "kurzzeichen": "H 1",
+      "bezeichnung": "Fahrt (Hauptsignal)",
+      "kategorie": "Hauptsignale"
+    },
+    {
+      "kurzzeichen": "H 2",
+      "bezeichnung": "Fahrt mit Geschwindigkeitsbeschränkung",
+      "kategorie": "Hauptsignale"
+    },
+    {
+      "kurzzeichen": "V 0",
+      "bezeichnung": "Halt erwarten (Vorsignal)",
+      "kategorie": "Vorsignale"
+    },
+    {
+      "kurzzeichen": "V 1",
+      "bezeichnung": "Fahrt erwarten (Vorsignal)",
+      "kategorie": "Vorsignale"
+    },
+    {
+      "kurzzeichen": "V 2",
+      "bezeichnung": "Fahrt mit Beschränkung erwarten",
+      "kategorie": "Vorsignale"
+    },
+    {
+      "kurzzeichen": "F 0",
+      "bezeichnung": "Halt",
+      "kategorie": "Fahrsignale"
+    },
+    {
+      "kurzzeichen": "F 1",
+      "bezeichnung": "Fahrt freigegeben geradeaus",
+      "kategorie": "Fahrsignale"
+    },
+    {
+      "kurzzeichen": "F 2",
+      "bezeichnung": "Fahrt freigegeben rechts",
+      "kategorie": "Fahrsignale"
+    },
+    {
+      "kurzzeichen": "F 3",
+      "bezeichnung": "Fahrt freigegeben links",
+      "kategorie": "Fahrsignale"
+    },
+    {
+      "kurzzeichen": "F 4",
+      "bezeichnung": "Halt zu erwarten",
+      "kategorie": "Fahrsignale"
+    },
+    {
+      "kurzzeichen": "F 5",
+      "bezeichnung": "Permissivsignal",
+      "kategorie": "Fahrsignale"
+    },
+    {
+      "kurzzeichen": "F 6",
+      "bezeichnung": "Weichenanlage gestört",
+      "kategorie": "Fahrsignale"
+    },
+    {
+      "kurzzeichen": "F 7",
+      "bezeichnung": "Streckenabschnitt gesperrt",
+      "kategorie": "Fahrsignale"
+    },
+    {
+      "kurzzeichen": "A 1",
+      "bezeichnung": "Türen schließen",
+      "kategorie": "Abfertigungssignale"
+    },
+    {
+      "kurzzeichen": "A 1 (gelb)",
+      "bezeichnung": "Türen schließen (gelb)",
+      "kategorie": "Abfertigungssignale"
+    },
+    {
+      "kurzzeichen": "A 2b",
+      "bezeichnung": "Abfahren",
+      "kategorie": "Abfertigungssignale"
+    },
+    {
+      "kurzzeichen": "A 2b (grün)",
+      "bezeichnung": "Abfahren (grün)",
+      "kategorie": "Abfertigungssignale"
+    },
+    {
+      "kurzzeichen": "ÖPNV A",
+      "bezeichnung": "Anforderungssignal A",
+      "kategorie": "Abfertigungssignale"
+    },
+    {
+      "kurzzeichen": "ÖPNV S",
+      "bezeichnung": "Anforderungssignal S",
+      "kategorie": "Abfertigungssignale"
+    },
+    {
+      "kurzzeichen": "G 1a",
+      "bezeichnung": "Geschwindigkeitsankündigung (Variante a)",
+      "kategorie": "Geschwindigkeitssignale"
+    },
+    {
+      "kurzzeichen": "G 1b",
+      "bezeichnung": "Geschwindigkeitsankündigung (Variante b)",
+      "kategorie": "Geschwindigkeitssignale"
+    },
+    {
+      "kurzzeichen": "G 2a",
+      "bezeichnung": "Geschwindigkeitsbeginn (Variante a)",
+      "kategorie": "Geschwindigkeitssignale"
+    },
+    {
+      "kurzzeichen": "G 2b",
+      "bezeichnung": "Geschwindigkeitsbeginn (Variante b)",
+      "kategorie": "Geschwindigkeitssignale"
+    },
+    {
+      "kurzzeichen": "G 3",
+      "bezeichnung": "Ende der Geschwindigkeitsbeschränkung",
+      "kategorie": "Geschwindigkeitssignale"
+    },
+    {
+      "kurzzeichen": "G 4",
+      "bezeichnung": "Änderung nach oben",
+      "kategorie": "Geschwindigkeitssignale"
+    },
+    {
+      "kurzzeichen": "G 4 (Dresden)",
+      "bezeichnung": "Geschwindigkeit 40 km/h (Dresden)",
+      "kategorie": "Geschwindigkeitssignale"
+    },
+    {
+      "kurzzeichen": "G 5 (Hannover)",
+      "bezeichnung": "Langsamfahrpunkt (Hannover)",
+      "kategorie": "Geschwindigkeitssignale"
+    },
+    {
+      "kurzzeichen": "Sh 0",
+      "bezeichnung": "Fahrverbot",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "Sh 1",
+      "bezeichnung": "Zwangshalt",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "Sh 2",
+      "bezeichnung": "Schutzhalt",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "Sh 4",
+      "bezeichnung": "Läuten",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "Sh 6",
+      "bezeichnung": "Grenzzeichen",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "Sh 7",
+      "bezeichnung": "Haltetafel",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "Sh 7 (weiß)",
+      "bezeichnung": "Haltetafel (weiß)",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "Sh 9 (Hannover)",
+      "bezeichnung": "Vorfahrt achten (Hannover)",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "Sh 10",
+      "bezeichnung": "Weiterfahrt verboten",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "Sh 13 (Frankfurt)",
+      "bezeichnung": "Vorfahrt beachten (Frankfurt)",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "Sh 3e (Hannover)",
+      "bezeichnung": "Eingeschränkter Nothalt (Hannover)",
+      "kategorie": "Schutzsignale"
+    },
+    {
+      "kurzzeichen": "St 1",
+      "bezeichnung": "Signalkontakt",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 1a",
+      "bezeichnung": "Signalkontakt erneut",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 2",
+      "bezeichnung": "Weichenkontakt",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 2a",
+      "bezeichnung": "Meldeempfänger",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 3",
+      "bezeichnung": "Ausschalten",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 4",
+      "bezeichnung": "Einschalten erlaubt",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 5",
+      "bezeichnung": "Stromabnehmer abziehen",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 6",
+      "bezeichnung": "Stromabnehmer anlegen",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 7",
+      "bezeichnung": "Streckentrenner",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 8",
+      "bezeichnung": "Halt für Fahrzeuge mit Stromabnehmer",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 10",
+      "bezeichnung": "Anforderungsschalter",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "St 11",
+      "bezeichnung": "Wiederholungsschalter",
+      "kategorie": "Schaltsignale"
+    },
+    {
+      "kurzzeichen": "W 0",
+      "bezeichnung": "Weiche befahren",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 0 (gelb)",
+      "bezeichnung": "Weiche befahren (gelb)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 1",
+      "bezeichnung": "Weiche geradeaus (15 km/h)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 1 (gelb)",
+      "bezeichnung": "Weiche geradeaus (15 km/h, gelb)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 2",
+      "bezeichnung": "Weiche rechts (15 km/h)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 2 (gelb)",
+      "bezeichnung": "Weiche rechts (15 km/h, gelb)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 3",
+      "bezeichnung": "Weiche links (15 km/h)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 3 (gelb)",
+      "bezeichnung": "Weiche links (15 km/h, gelb)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 11",
+      "bezeichnung": "Weiche geradeaus verschlossen",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 11 (gelb)",
+      "bezeichnung": "Weiche geradeaus verschlossen (gelb)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 12",
+      "bezeichnung": "Weiche rechts verschlossen",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 12 (gelb)",
+      "bezeichnung": "Weiche rechts verschlossen (gelb)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 13",
+      "bezeichnung": "Weiche links verschlossen",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 13 (gelb)",
+      "bezeichnung": "Weiche links verschlossen (gelb)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 14",
+      "bezeichnung": "Weiche gesperrt (Tafel)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 14 (Lichtsignal)",
+      "bezeichnung": "Weiche gesperrt (Licht)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "W 14 (Lichtsignal gelb)",
+      "bezeichnung": "Weiche gesperrt (Licht gelb)",
+      "kategorie": "Weichensignale"
+    },
+    {
+      "kurzzeichen": "Bü 0",
+      "bezeichnung": "Überwachungssignal",
+      "kategorie": "Bahnübergänge"
+    },
+    {
+      "kurzzeichen": "Bü 1",
+      "bezeichnung": "Bahnübergang frei",
+      "kategorie": "Bahnübergänge"
+    },
+    {
+      "kurzzeichen": "Bü 2",
+      "bezeichnung": "Bahnübergang Ankündigung",
+      "kategorie": "Bahnübergänge"
+    },
+    {
+      "kurzzeichen": "So 1",
+      "bezeichnung": "Beginn Zugsicherung",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 2",
+      "bezeichnung": "Ende Zugsicherung",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 3",
+      "bezeichnung": "Standortkennzeichen",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 4",
+      "bezeichnung": "Auftragsschild",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 5",
+      "bezeichnung": "Begegnungsverbot Anfang",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 5 (Variante 2)",
+      "bezeichnung": "Begegnungsverbot (V2)",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 6",
+      "bezeichnung": "Begegnungsverbot Ende",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 7 (Hannover)",
+      "bezeichnung": "Höchstwertanzeiger (Hannover)",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 10",
+      "bezeichnung": "Wechsel Seitenlage",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 11 (Dresden)",
+      "bezeichnung": "Gleisschmieranlage (Dresden)",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 19",
+      "bezeichnung": "Fußgängerwarnanlage",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 21",
+      "bezeichnung": "Betriebsregelung gestört",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 21a",
+      "bezeichnung": "Anweisungen gestört",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 22",
+      "bezeichnung": "Außenspiegel einklappen",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "So 23",
+      "bezeichnung": "Außenspiegel ausklappen",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "M",
+      "bezeichnung": "Magnetkontakt",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "WF",
+      "bezeichnung": "Wendefahrt",
+      "kategorie": "Sondersignale"
+    },
+    {
+      "kurzzeichen": "alt St 6 (OSt06)",
+      "bezeichnung": "Halt (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "alt St 7 (OSt07)",
+      "bezeichnung": "Fahrt geradeaus (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "alt St 8 (OSt08)",
+      "bezeichnung": "Fahrt rechts (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "alt St 9 (OSt09)",
+      "bezeichnung": "Fahrt links (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "alt St 10 (OSt10)",
+      "bezeichnung": "Fahrt geradeaus und rechts (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "alt St 11 (OSt11)",
+      "bezeichnung": "Fahrt geradeaus und links (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "alt St 23",
+      "bezeichnung": "Vorfahrt gewähren (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "alt St 24",
+      "bezeichnung": "Vorfahrt (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "alt St 29",
+      "bezeichnung": "Haltestelle (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "alt St 29a",
+      "bezeichnung": "Doppelhaltestelle (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "alt St 36 (OSt36)",
+      "bezeichnung": "Begegnung erlaubt (DDR alt)",
+      "kategorie": "Historisch DDR"
+    },
+    {
+      "kurzzeichen": "H 3 (Hannover)",
+      "bezeichnung": "Fahrt mit Beschränkung (Hannover)",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "H 4",
+      "bezeichnung": "Ersatzsignal",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "Hp 1",
+      "bezeichnung": "Fahrt (Eisenbahn-Style)",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "Hp 2",
+      "bezeichnung": "Langsamfahrt (Eisenbahn-Style)",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "Hp 3",
+      "bezeichnung": "Halt erwarten (Köln)",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "X 01",
+      "bezeichnung": "Regional-Signal X01",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "X 02",
+      "bezeichnung": "Regional-Signal X02",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "X 03",
+      "bezeichnung": "Regional-Signal X03",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "X 05",
+      "bezeichnung": "Regional-Signal X05",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "X 07",
+      "bezeichnung": "Regional-Signal X07",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "X 08",
+      "bezeichnung": "Regional-Signal X08",
+      "kategorie": "Regional"
+    },
+    {
+      "kurzzeichen": "W 0 + W 13",
+      "bezeichnung": "Weichen-Kombination",
+      "kategorie": "Kombinationen"
+    },
+    {
+      "kurzzeichen": "W 13 + W 13",
+      "bezeichnung": "Doppel-Weiche",
+      "kategorie": "Kombinationen"
+    },
+    {
+      "kurzzeichen": "3× F 0",
+      "bezeichnung": "Dreifach Halt",
+      "kategorie": "Kombinationen"
+    }
+  ]
+}

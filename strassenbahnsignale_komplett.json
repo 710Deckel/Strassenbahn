@@ -1,0 +1,1038 @@
+{
+  "meta": {
+    "version": "3.0 - FINAL 129",
+    "titel": "Straßenbahnsignale Deutschland - Komplett",
+    "quelle": "Wikipedia + eigene SVG-Sammlung",
+    "url": "https://de.wikipedia.org/wiki/Straßenbahnsignale_in_Deutschland",
+    "datum": "2025-12-26",
+    "beschreibung": "Vollständige Sammlung ALLER 129 Straßenbahn-Signale inkl. Farbvarianten und Kombinationen",
+    "regelwerk": "BOStrab + DFStrab + Regional",
+    "hinweis": "Passend zu den 129 SVG-Dateien im Repository",
+    "github": "https://github.com/710Deckel/Strassenbahn"
+  },
+  "anzahl": 113,
+  "kategorien": {
+    "Hauptsignale": 3,
+    "Vorsignale": 3,
+    "Fahrsignale": 8,
+    "Abfertigungssignale": 6,
+    "Geschwindigkeitssignale": 8,
+    "Schutzsignale": 11,
+    "Schaltsignale": 12,
+    "Weichensignale": 17,
+    "Bahnübergänge": 3,
+    "Sondersignale": 17,
+    "Historisch DDR": 11,
+    "Regional": 11,
+    "Kombinationen": 3
+  },
+  "signale": [
+    {
+      "kurzzeichen": "H 0",
+      "bezeichnung": "Halt (Hauptsignal)",
+      "bedeutung": "Halt",
+      "kategorie": "Hauptsignale",
+      "beschreibung": "Ein rotes Licht",
+      "farbe": "Rot",
+      "symbol": "Rotes Licht"
+    },
+    {
+      "kurzzeichen": "H 1",
+      "bezeichnung": "Fahrt (Hauptsignal)",
+      "bedeutung": "Fahrt",
+      "kategorie": "Hauptsignale",
+      "beschreibung": "Ein grünes Licht",
+      "farbe": "Grün",
+      "symbol": "Grünes Licht"
+    },
+    {
+      "kurzzeichen": "H 2",
+      "bezeichnung": "Fahrt mit Geschwindigkeitsbeschränkung",
+      "bedeutung": "Fahrt mit Geschwindigkeitsbeschränkung",
+      "kategorie": "Hauptsignale",
+      "beschreibung": "Grün über Gelb",
+      "farbe": "Grün-Gelb",
+      "symbol": "Grünes über gelbem Licht"
+    },
+    {
+      "kurzzeichen": "V 0",
+      "bezeichnung": "Halt erwarten (Vorsignal)",
+      "bedeutung": "Am folgenden Hauptsignal ist Halt zu erwarten",
+      "kategorie": "Vorsignale",
+      "beschreibung": "Zwei gelbe Lichter nach rechts steigend",
+      "farbe": "Gelb",
+      "symbol": "Zwei gelbe Lichter"
+    },
+    {
+      "kurzzeichen": "V 1",
+      "bezeichnung": "Fahrt erwarten (Vorsignal)",
+      "bedeutung": "Am folgenden Hauptsignal ist Fahrt zu erwarten",
+      "kategorie": "Vorsignale",
+      "beschreibung": "Zwei grüne Lichter nach rechts steigend",
+      "farbe": "Grün",
+      "symbol": "Zwei grüne Lichter"
+    },
+    {
+      "kurzzeichen": "V 2",
+      "bezeichnung": "Fahrt mit Beschränkung erwarten",
+      "bedeutung": "Am folgenden Hauptsignal ist Fahrt mit Geschwindigkeitsbeschränkung zu erwarten",
+      "kategorie": "Vorsignale",
+      "beschreibung": "Grün und Gelb steigend",
+      "farbe": "Grün-Gelb",
+      "symbol": "Grünes und gelbes Licht steigend"
+    },
+    {
+      "kurzzeichen": "F 0",
+      "bezeichnung": "Halt",
+      "bedeutung": "Halt",
+      "kategorie": "Fahrsignale",
+      "beschreibung": "Weißer Querbalken",
+      "farbe": "Weiß",
+      "symbol": "Querbalken"
+    },
+    {
+      "kurzzeichen": "F 1",
+      "bezeichnung": "Fahrt freigegeben geradeaus",
+      "bedeutung": "Fahrt freigegeben nur geradeaus",
+      "kategorie": "Fahrsignale",
+      "beschreibung": "Weißer senkrechter Balken",
+      "farbe": "Weiß",
+      "symbol": "Senkrechter Balken"
+    },
+    {
+      "kurzzeichen": "F 2",
+      "bezeichnung": "Fahrt freigegeben rechts",
+      "bedeutung": "Fahrt freigegeben nur nach rechts",
+      "kategorie": "Fahrsignale",
+      "beschreibung": "Weißer Schrägbalken rechts",
+      "farbe": "Weiß",
+      "symbol": "Schrägbalken rechts"
+    },
+    {
+      "kurzzeichen": "F 3",
+      "bezeichnung": "Fahrt freigegeben links",
+      "bedeutung": "Fahrt freigegeben nur nach links",
+      "kategorie": "Fahrsignale",
+      "beschreibung": "Weißer Schrägbalken links",
+      "farbe": "Weiß",
+      "symbol": "Schrägbalken links"
+    },
+    {
+      "kurzzeichen": "F 4",
+      "bezeichnung": "Halt zu erwarten",
+      "bedeutung": "Halt zu erwarten",
+      "kategorie": "Fahrsignale",
+      "beschreibung": "Weißer Kreis",
+      "farbe": "Weiß",
+      "symbol": "Kreis"
+    },
+    {
+      "kurzzeichen": "F 5",
+      "bezeichnung": "Permissivsignal",
+      "bedeutung": "Fahrt freigegeben unter Beachtung der Abbiegeregeln",
+      "kategorie": "Fahrsignale",
+      "beschreibung": "Weißes Dreieck auf Spitze",
+      "farbe": "Weiß",
+      "symbol": "Dreieck"
+    },
+    {
+      "kurzzeichen": "F 6",
+      "bezeichnung": "Weichenanlage gestört",
+      "bedeutung": "Weichenanlage/Signalanlage gestört",
+      "kategorie": "Fahrsignale",
+      "beschreibung": "Weißes Kreuz",
+      "farbe": "Weiß",
+      "symbol": "Kreuz",
+      "regional": "Rhein-Ruhr, Heidelberg, Mannheim/Ludwigshafen",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "F 7",
+      "bezeichnung": "Streckenabschnitt gesperrt",
+      "bedeutung": "Streckenabschnitt gesperrt – Weiterfahrt mit 20 km/h",
+      "kategorie": "Fahrsignale",
+      "beschreibung": "Drei Punkte als Dreieck",
+      "farbe": "Weiß",
+      "symbol": "Dreieck aus Punkten",
+      "regional": "Frankfurt am Main",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "A 1",
+      "bezeichnung": "Türen schließen",
+      "bedeutung": "Türen schließen",
+      "kategorie": "Abfertigungssignale",
+      "beschreibung": "Buchstabe 'T'",
+      "farbe": "Weiß",
+      "symbol": "T"
+    },
+    {
+      "kurzzeichen": "A 1 (gelb)",
+      "bezeichnung": "Türen schließen (gelb)",
+      "bedeutung": "Türen schließen",
+      "kategorie": "Abfertigungssignale",
+      "beschreibung": "Buchstabe 'T' in Gelb",
+      "farbe": "Gelb",
+      "symbol": "T"
+    },
+    {
+      "kurzzeichen": "A 2b",
+      "bezeichnung": "Abfahren",
+      "bedeutung": "Abfahren",
+      "kategorie": "Abfertigungssignale",
+      "beschreibung": "Pfeil nach oben",
+      "farbe": "Weiß",
+      "symbol": "↑"
+    },
+    {
+      "kurzzeichen": "A 2b (grün)",
+      "bezeichnung": "Abfahren (grün)",
+      "bedeutung": "Abfahren",
+      "kategorie": "Abfertigungssignale",
+      "beschreibung": "Pfeil nach oben in Grün",
+      "farbe": "Grün",
+      "symbol": "↑"
+    },
+    {
+      "kurzzeichen": "ÖPNV A",
+      "bezeichnung": "Anforderungssignal A",
+      "bedeutung": "Anschluss abwarten (Anmeldung)",
+      "kategorie": "Abfertigungssignale",
+      "beschreibung": "Leuchtendes 'A'",
+      "farbe": "Weiß",
+      "symbol": "A"
+    },
+    {
+      "kurzzeichen": "ÖPNV S",
+      "bezeichnung": "Anforderungssignal S",
+      "bedeutung": "Signal angefordert",
+      "kategorie": "Abfertigungssignale",
+      "beschreibung": "Leuchtendes 'S'",
+      "farbe": "Weiß",
+      "symbol": "S"
+    },
+    {
+      "kurzzeichen": "G 1a",
+      "bezeichnung": "Geschwindigkeitsankündigung (Variante a)",
+      "bedeutung": "Ankündigung der Geschwindigkeitsbeschränkung",
+      "kategorie": "Geschwindigkeitssignale",
+      "beschreibung": "Gelb-schwarze Kennziffer",
+      "farbe": "Gelb-Schwarz",
+      "symbol": "Kennziffer"
+    },
+    {
+      "kurzzeichen": "G 1b",
+      "bezeichnung": "Geschwindigkeitsankündigung (Variante b)",
+      "bedeutung": "Ankündigung der Geschwindigkeitsbeschränkung",
+      "kategorie": "Geschwindigkeitssignale",
+      "beschreibung": "Gelb-schwarze Kennziffer",
+      "farbe": "Gelb-Schwarz",
+      "symbol": "Kennziffer"
+    },
+    {
+      "kurzzeichen": "G 2a",
+      "bezeichnung": "Geschwindigkeitsbeginn (Variante a)",
+      "bedeutung": "Beginn der Geschwindigkeitsbeschränkung",
+      "kategorie": "Geschwindigkeitssignale",
+      "beschreibung": "Weiß-schwarze Kennziffer",
+      "farbe": "Weiß-Schwarz",
+      "symbol": "Kennziffer"
+    },
+    {
+      "kurzzeichen": "G 2b",
+      "bezeichnung": "Geschwindigkeitsbeginn (Variante b)",
+      "bedeutung": "Beginn der Geschwindigkeitsbeschränkung",
+      "kategorie": "Geschwindigkeitssignale",
+      "beschreibung": "Weiß-schwarze Kennziffer",
+      "farbe": "Weiß-Schwarz",
+      "symbol": "Kennziffer"
+    },
+    {
+      "kurzzeichen": "G 3",
+      "bezeichnung": "Ende der Geschwindigkeitsbeschränkung",
+      "bedeutung": "Ende der Geschwindigkeitsbeschränkung",
+      "kategorie": "Geschwindigkeitssignale",
+      "beschreibung": "Ende-Symbol",
+      "farbe": "Weiß-Schwarz",
+      "symbol": "Ende"
+    },
+    {
+      "kurzzeichen": "G 4",
+      "bezeichnung": "Änderung nach oben",
+      "bedeutung": "Änderung der zulässigen Geschwindigkeit nach oben",
+      "kategorie": "Geschwindigkeitssignale",
+      "beschreibung": "Kennziffer",
+      "farbe": "Weiß-Schwarz",
+      "symbol": "Kennziffer"
+    },
+    {
+      "kurzzeichen": "G 4 (Dresden)",
+      "bezeichnung": "Geschwindigkeit 40 km/h (Dresden)",
+      "bedeutung": "Beispiel mit Kennziffer 4 für 40 km/h",
+      "kategorie": "Geschwindigkeitssignale",
+      "beschreibung": "Kennziffer 4",
+      "farbe": "Weiß-Schwarz",
+      "symbol": "4",
+      "regional": "Dresden",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "G 5 (Hannover)",
+      "bezeichnung": "Langsamfahrpunkt (Hannover)",
+      "bedeutung": "Zugspitze maximal mit angegebener Geschwindigkeit",
+      "kategorie": "Geschwindigkeitssignale",
+      "beschreibung": "Gelbes Dreieck mit Ziffer",
+      "farbe": "Gelb-Schwarz",
+      "symbol": "Dreieck",
+      "regional": "Hannover",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "Sh 0",
+      "bezeichnung": "Fahrverbot",
+      "bedeutung": "Fahrverbot/Halt",
+      "kategorie": "Schutzsignale",
+      "beschreibung": "Haltgebot",
+      "symbol": "Tafel"
+    },
+    {
+      "kurzzeichen": "Sh 1",
+      "bezeichnung": "Zwangshalt",
+      "bedeutung": "In jedem Fall anhalten",
+      "kategorie": "Schutzsignale",
+      "beschreibung": "Tafel",
+      "farbe": "Rot-Weiß",
+      "symbol": "Zwangshalt-Tafel"
+    },
+    {
+      "kurzzeichen": "Sh 2",
+      "bezeichnung": "Schutzhalt",
+      "bedeutung": "Weiterfahrt unzulässig",
+      "kategorie": "Schutzsignale",
+      "beschreibung": "Tafel",
+      "farbe": "Rot-Weiß",
+      "symbol": "Schutzhalt-Tafel"
+    },
+    {
+      "kurzzeichen": "Sh 4",
+      "bezeichnung": "Läuten",
+      "bedeutung": "Akustische Warnsignale geben",
+      "kategorie": "Schutzsignale",
+      "beschreibung": "Glocken-Symbol",
+      "symbol": "Glocke"
+    },
+    {
+      "kurzzeichen": "Sh 6",
+      "bezeichnung": "Grenzzeichen",
+      "bedeutung": "Grenze bei zusammenlaufenden Gleisen",
+      "kategorie": "Schutzsignale",
+      "beschreibung": "Tafel",
+      "symbol": "Grenzzeichen"
+    },
+    {
+      "kurzzeichen": "Sh 7",
+      "bezeichnung": "Haltetafel",
+      "bedeutung": "Stelle zum Halten",
+      "kategorie": "Schutzsignale",
+      "beschreibung": "H-Tafel",
+      "symbol": "H"
+    },
+    {
+      "kurzzeichen": "Sh 7 (weiß)",
+      "bezeichnung": "Haltetafel (weiß)",
+      "bedeutung": "Stelle zum Halten",
+      "kategorie": "Schutzsignale",
+      "beschreibung": "Weiße H-Tafel",
+      "farbe": "Weiß",
+      "symbol": "H"
+    },
+    {
+      "kurzzeichen": "Sh 9 (Hannover)",
+      "bezeichnung": "Vorfahrt achten (Hannover)",
+      "bedeutung": "Vorfahrt beachten",
+      "kategorie": "Schutzsignale",
+      "beschreibung": "Weißes Dreieck",
+      "farbe": "Weiß",
+      "symbol": "Dreieck",
+      "regional": "Hannover",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "Sh 10",
+      "bezeichnung": "Weiterfahrt verboten",
+      "bedeutung": "Weiterfahrt in Pfeilrichtung verboten",
+      "kategorie": "Schutzsignale",
+      "symbol": "Pfeil",
+      "regional": "Düsseldorf, Duisburg",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "Sh 13 (Frankfurt)",
+      "bezeichnung": "Vorfahrt beachten (Frankfurt)",
+      "bedeutung": "Zug muss Vorfahrt geben",
+      "kategorie": "Schutzsignale",
+      "beschreibung": "Oranges Dreieck",
+      "farbe": "Orange",
+      "symbol": "Dreieck",
+      "regional": "Frankfurt am Main",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "Sh 3e (Hannover)",
+      "bezeichnung": "Eingeschränkter Nothalt (Hannover)",
+      "bedeutung": "Mit Betriebsbremsung vor Bahnsteig anhalten",
+      "kategorie": "Schutzsignale",
+      "regional": "Hannover",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "St 1",
+      "bezeichnung": "Signalkontakt",
+      "bedeutung": "Signalkontakt betätigen",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Symbol",
+      "farbe": "Gelb/Weiß",
+      "symbol": "Symbol"
+    },
+    {
+      "kurzzeichen": "St 1a",
+      "bezeichnung": "Signalkontakt erneut",
+      "bedeutung": "Signalkontakt kann erneut angefordert werden",
+      "kategorie": "Schaltsignale",
+      "regional": "Düsseldorf, Duisburg",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "St 2",
+      "bezeichnung": "Weichenkontakt",
+      "bedeutung": "Weichenkontakt betätigen",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Symbol",
+      "farbe": "Gelb/Weiß",
+      "symbol": "Symbol"
+    },
+    {
+      "kurzzeichen": "St 2a",
+      "bezeichnung": "Meldeempfänger",
+      "bedeutung": "Wagen über Koppelspule",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Blaue Tafel ME",
+      "farbe": "Blau-Weiß",
+      "symbol": "ME",
+      "regional": "Bochum/Gelsenkirchen, Duisburg, Essen",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "St 3",
+      "bezeichnung": "Ausschalten",
+      "bedeutung": "Fahrstrom ausschalten",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Bügel ab",
+      "farbe": "Gelb/Weiß",
+      "symbol": "Symbol"
+    },
+    {
+      "kurzzeichen": "St 4",
+      "bezeichnung": "Einschalten erlaubt",
+      "bedeutung": "Fahrstrom einschalten",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Bügel an",
+      "farbe": "Gelb/Weiß",
+      "symbol": "Symbol"
+    },
+    {
+      "kurzzeichen": "St 5",
+      "bezeichnung": "Stromabnehmer abziehen",
+      "bedeutung": "Stromabnehmer abziehen",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Symbol",
+      "farbe": "Gelb/Weiß",
+      "symbol": "Symbol"
+    },
+    {
+      "kurzzeichen": "St 6",
+      "bezeichnung": "Stromabnehmer anlegen",
+      "bedeutung": "Stromabnehmer anlegen",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Symbol",
+      "farbe": "Gelb/Weiß",
+      "symbol": "Symbol"
+    },
+    {
+      "kurzzeichen": "St 7",
+      "bezeichnung": "Streckentrenner",
+      "bedeutung": "Stromlos befahren",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Streckentrenner",
+      "farbe": "Gelb/Weiß",
+      "symbol": "Symbol"
+    },
+    {
+      "kurzzeichen": "St 8",
+      "bezeichnung": "Halt für Fahrzeuge mit Stromabnehmer",
+      "bedeutung": "Weiterfahrt für Fahrzeuge mit Stromabnehmer unzulässig",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Symbol",
+      "farbe": "Gelb/Weiß",
+      "symbol": "Symbol"
+    },
+    {
+      "kurzzeichen": "St 10",
+      "bezeichnung": "Anforderungsschalter",
+      "bedeutung": "Schaltkasten",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Schlüssel weiß",
+      "farbe": "Blau-Weiß",
+      "symbol": "Schlüssel",
+      "regional": "Düsseldorf, Duisburg",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "St 11",
+      "bezeichnung": "Wiederholungsschalter",
+      "bedeutung": "Schaltkasten",
+      "kategorie": "Schaltsignale",
+      "beschreibung": "Schlüssel gelb",
+      "farbe": "Blau-Gelb",
+      "symbol": "Schlüssel",
+      "regional": "Düsseldorf, Duisburg",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "W 0",
+      "bezeichnung": "Weiche befahren",
+      "bedeutung": "Weiche kann nicht umgestellt werden",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Kreuz",
+      "farbe": "Gelb/Weiß",
+      "symbol": "X"
+    },
+    {
+      "kurzzeichen": "W 0 (gelb)",
+      "bezeichnung": "Weiche befahren (gelb)",
+      "bedeutung": "Weiche kann nicht umgestellt werden",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Gelbes Kreuz",
+      "farbe": "Gelb",
+      "symbol": "X"
+    },
+    {
+      "kurzzeichen": "W 1",
+      "bezeichnung": "Weiche geradeaus (15 km/h)",
+      "bedeutung": "Geradeaus mit 15 km/h",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Senkrechter Balken",
+      "farbe": "Weiß",
+      "symbol": "|"
+    },
+    {
+      "kurzzeichen": "W 1 (gelb)",
+      "bezeichnung": "Weiche geradeaus (15 km/h, gelb)",
+      "bedeutung": "Geradeaus mit 15 km/h",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Gelber Balken",
+      "farbe": "Gelb",
+      "symbol": "|"
+    },
+    {
+      "kurzzeichen": "W 2",
+      "bezeichnung": "Weiche rechts (15 km/h)",
+      "bedeutung": "Rechts mit 15 km/h",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Schrägbalken rechts",
+      "farbe": "Weiß",
+      "symbol": "/"
+    },
+    {
+      "kurzzeichen": "W 2 (gelb)",
+      "bezeichnung": "Weiche rechts (15 km/h, gelb)",
+      "bedeutung": "Rechts mit 15 km/h",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Gelber Balken",
+      "farbe": "Gelb",
+      "symbol": "/"
+    },
+    {
+      "kurzzeichen": "W 3",
+      "bezeichnung": "Weiche links (15 km/h)",
+      "bedeutung": "Links mit 15 km/h",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Schrägbalken links",
+      "farbe": "Weiß",
+      "symbol": "\\"
+    },
+    {
+      "kurzzeichen": "W 3 (gelb)",
+      "bezeichnung": "Weiche links (15 km/h, gelb)",
+      "bedeutung": "Links mit 15 km/h",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Gelber Balken",
+      "farbe": "Gelb",
+      "symbol": "\\"
+    },
+    {
+      "kurzzeichen": "W 11",
+      "bezeichnung": "Weiche geradeaus verschlossen",
+      "bedeutung": "Geradeaus mit voller Geschwindigkeit",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Senkrechter Balken geriegelt",
+      "farbe": "Weiß",
+      "symbol": "| |"
+    },
+    {
+      "kurzzeichen": "W 11 (gelb)",
+      "bezeichnung": "Weiche geradeaus verschlossen (gelb)",
+      "bedeutung": "Geradeaus verschlossen",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Gelber Balken",
+      "farbe": "Gelb",
+      "symbol": "| |"
+    },
+    {
+      "kurzzeichen": "W 12",
+      "bezeichnung": "Weiche rechts verschlossen",
+      "bedeutung": "Rechts mit voller Geschwindigkeit",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Schrägbalken rechts geriegelt",
+      "farbe": "Weiß",
+      "symbol": "/ /"
+    },
+    {
+      "kurzzeichen": "W 12 (gelb)",
+      "bezeichnung": "Weiche rechts verschlossen (gelb)",
+      "bedeutung": "Rechts verschlossen",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Gelber Balken",
+      "farbe": "Gelb",
+      "symbol": "/ /"
+    },
+    {
+      "kurzzeichen": "W 13",
+      "bezeichnung": "Weiche links verschlossen",
+      "bedeutung": "Links mit voller Geschwindigkeit",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Schrägbalken links geriegelt",
+      "farbe": "Weiß",
+      "symbol": "\\ \\"
+    },
+    {
+      "kurzzeichen": "W 13 (gelb)",
+      "bezeichnung": "Weiche links verschlossen (gelb)",
+      "bedeutung": "Links verschlossen",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Gelber Balken",
+      "farbe": "Gelb",
+      "symbol": "\\ \\"
+    },
+    {
+      "kurzzeichen": "W 14",
+      "bezeichnung": "Weiche gesperrt (Tafel)",
+      "bedeutung": "Weiche darf nicht befahren werden",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Tafel",
+      "farbe": "Weiß auf Schwarz",
+      "symbol": "Tafel"
+    },
+    {
+      "kurzzeichen": "W 14 (Lichtsignal)",
+      "bezeichnung": "Weiche gesperrt (Licht)",
+      "bedeutung": "Weiche gesperrt",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Lichtsignal weiß",
+      "farbe": "Weiß",
+      "symbol": "Licht"
+    },
+    {
+      "kurzzeichen": "W 14 (Lichtsignal gelb)",
+      "bezeichnung": "Weiche gesperrt (Licht gelb)",
+      "bedeutung": "Weiche gesperrt",
+      "kategorie": "Weichensignale",
+      "beschreibung": "Lichtsignal gelb",
+      "farbe": "Gelb",
+      "symbol": "Licht"
+    },
+    {
+      "kurzzeichen": "Bü 0",
+      "bezeichnung": "Überwachungssignal",
+      "bedeutung": "Halt vor Bahnübergang",
+      "kategorie": "Bahnübergänge",
+      "beschreibung": "Schwarz-weiß gestreift",
+      "farbe": "Schwarz-Weiß",
+      "symbol": "Mastschild"
+    },
+    {
+      "kurzzeichen": "Bü 1",
+      "bezeichnung": "Bahnübergang frei",
+      "bedeutung": "Bahnübergang darf befahren werden",
+      "kategorie": "Bahnübergänge",
+      "beschreibung": "Weißes Blinklicht",
+      "farbe": "Weiß",
+      "symbol": "Blinklicht"
+    },
+    {
+      "kurzzeichen": "Bü 2",
+      "bezeichnung": "Bahnübergang Ankündigung",
+      "bedeutung": "Überwachungssignal erwarten",
+      "kategorie": "Bahnübergänge",
+      "beschreibung": "Vier weiße Rauten",
+      "farbe": "Schwarz-Weiß",
+      "symbol": "Rauten"
+    },
+    {
+      "kurzzeichen": "So 1",
+      "bezeichnung": "Beginn Zugsicherung",
+      "bedeutung": "Übergang zu Zugsicherung",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Zwei schwarze Punkte",
+      "farbe": "Schwarz auf Weiß",
+      "symbol": "••"
+    },
+    {
+      "kurzzeichen": "So 2",
+      "bezeichnung": "Ende Zugsicherung",
+      "bedeutung": "Übergang zu Fahrt auf Sicht",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Zwei Punkte mit Diagonalstreifen",
+      "farbe": "Schwarz-Rot",
+      "symbol": "•• /"
+    },
+    {
+      "kurzzeichen": "So 3",
+      "bezeichnung": "Standortkennzeichen",
+      "bedeutung": "Standort eines Hauptsignals",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Schwarz-weiß schräg gestreift",
+      "farbe": "Schwarz-Weiß",
+      "symbol": "Streifen"
+    },
+    {
+      "kurzzeichen": "So 4",
+      "bezeichnung": "Auftragsschild",
+      "bedeutung": "Vorbeifahrt am Halt-Signal",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Weiß-gelb gestreift",
+      "farbe": "Weiß-Gelb",
+      "symbol": "Mastschild"
+    },
+    {
+      "kurzzeichen": "So 5",
+      "bezeichnung": "Begegnungsverbot Anfang",
+      "bedeutung": "Gegengleis muss frei sein",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Zwei Züge mit Verbot",
+      "farbe": "Schwarz-Weiß",
+      "symbol": "Züge"
+    },
+    {
+      "kurzzeichen": "So 5 (Variante 2)",
+      "bezeichnung": "Begegnungsverbot (V2)",
+      "bedeutung": "Alternative Darstellung",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Züge",
+      "farbe": "Schwarz-Weiß",
+      "symbol": "Züge"
+    },
+    {
+      "kurzzeichen": "So 6",
+      "bezeichnung": "Begegnungsverbot Ende",
+      "bedeutung": "Ende des Begegnungsverbots",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Ende-Symbol",
+      "farbe": "Schwarz-Weiß",
+      "symbol": "Ende"
+    },
+    {
+      "kurzzeichen": "So 7 (Hannover)",
+      "bezeichnung": "Höchstwertanzeiger (Hannover)",
+      "bedeutung": "Höchstwertanzeiger beachten",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Rotes Dreieck",
+      "farbe": "Weiß-Rot",
+      "symbol": "Dreieck",
+      "regional": "Hannover",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "So 10",
+      "bezeichnung": "Wechsel Seitenlage",
+      "bedeutung": "Wechsel der Seitenlage",
+      "kategorie": "Sondersignale",
+      "beschreibung": "HO/MI/SO",
+      "symbol": "Bahnsteighöhen",
+      "regional": "Düsseldorf, Duisburg",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "So 11 (Dresden)",
+      "bezeichnung": "Gleisschmieranlage (Dresden)",
+      "bedeutung": "Gleisschmieranlage",
+      "kategorie": "Sondersignale",
+      "beschreibung": "GSA",
+      "symbol": "GSA",
+      "regional": "Dresden",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "So 19",
+      "bezeichnung": "Fußgängerwarnanlage",
+      "bedeutung": "Fußgängerwarnanlage eingeschaltet",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Blinkende Straßenbahn",
+      "farbe": "Weiß",
+      "symbol": "Blinken",
+      "regional": "NRW",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "So 21",
+      "bezeichnung": "Betriebsregelung gestört",
+      "bedeutung": "Regelung bei gestörten Signalen",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Zeitangaben",
+      "symbol": "Tafel",
+      "regional": "Duisburg",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "So 21a",
+      "bezeichnung": "Anweisungen gestört",
+      "bedeutung": "Anweisungen bei gestörten Signalen",
+      "kategorie": "Sondersignale",
+      "symbol": "Tafel",
+      "regional": "Düsseldorf",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "So 22",
+      "bezeichnung": "Außenspiegel einklappen",
+      "bedeutung": "Außenspiegel einklappen",
+      "kategorie": "Sondersignale",
+      "symbol": "Symbol",
+      "regional": "Düsseldorf, Essen, Mülheim",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "So 23",
+      "bezeichnung": "Außenspiegel ausklappen",
+      "bedeutung": "Außenspiegel ausklappen",
+      "kategorie": "Sondersignale",
+      "symbol": "Symbol",
+      "regional": "Düsseldorf, Essen, Mülheim",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "M",
+      "bezeichnung": "Magnetkontakt",
+      "bedeutung": "Fahrzeugmagnet über Anforderungsschleife",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Buchstabe M",
+      "symbol": "M",
+      "regional": "Heidelberg, Mannheim",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "WF",
+      "bezeichnung": "Wendefahrt",
+      "bedeutung": "Wendefahrt im Regelgleis",
+      "kategorie": "Sondersignale",
+      "beschreibung": "Buchstaben WF",
+      "symbol": "WF",
+      "regional": "Heidelberg",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "alt St 6 (OSt06)",
+      "bezeichnung": "Halt (DDR alt)",
+      "bedeutung": "Halt",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "alt St 7 (OSt07)",
+      "bezeichnung": "Fahrt geradeaus (DDR alt)",
+      "bedeutung": "Geradeaus",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "alt St 8 (OSt08)",
+      "bezeichnung": "Fahrt rechts (DDR alt)",
+      "bedeutung": "Rechts",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "alt St 9 (OSt09)",
+      "bezeichnung": "Fahrt links (DDR alt)",
+      "bedeutung": "Links",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "alt St 10 (OSt10)",
+      "bezeichnung": "Fahrt geradeaus und rechts (DDR alt)",
+      "bedeutung": "Geradeaus und rechts",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "alt St 11 (OSt11)",
+      "bezeichnung": "Fahrt geradeaus und links (DDR alt)",
+      "bedeutung": "Geradeaus und links",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "alt St 23",
+      "bezeichnung": "Vorfahrt gewähren (DDR alt)",
+      "bedeutung": "Vorfahrt gewähren",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "alt St 24",
+      "bezeichnung": "Vorfahrt (DDR alt)",
+      "bedeutung": "Vorfahrt",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "alt St 29",
+      "bezeichnung": "Haltestelle (DDR alt)",
+      "bedeutung": "Haltestelle",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "alt St 29a",
+      "bezeichnung": "Doppelhaltestelle (DDR alt)",
+      "bedeutung": "Doppelhaltestelle",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "alt St 36 (OSt36)",
+      "bezeichnung": "Begegnung erlaubt (DDR alt)",
+      "bedeutung": "Begegnung erlaubt",
+      "kategorie": "Historisch DDR",
+      "regelwerk": "DF (DDR)"
+    },
+    {
+      "kurzzeichen": "H 3 (Hannover)",
+      "bezeichnung": "Fahrt mit Beschränkung (Hannover)",
+      "bedeutung": "Mit Geschwindigkeitsbeschränkung und auf Sicht",
+      "kategorie": "Regional",
+      "beschreibung": "Grün und zwei Gelb",
+      "farbe": "Grün-Gelb",
+      "symbol": "Lichter",
+      "regional": "Hannover",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "H 4",
+      "bezeichnung": "Ersatzsignal",
+      "bedeutung": "Freigabetaste betätigen",
+      "kategorie": "Regional",
+      "beschreibung": "Drei Punkte V-Form",
+      "farbe": "Weiß/Gelb",
+      "symbol": "V",
+      "regional": "Bielefeld, Rhein-Ruhr, Karlsruhe",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "Hp 1",
+      "bezeichnung": "Fahrt (Eisenbahn-Style)",
+      "bedeutung": "Fahrt",
+      "kategorie": "Regional",
+      "farbe": "Grün",
+      "symbol": "Licht",
+      "regelwerk": "DFStrab"
+    },
+    {
+      "kurzzeichen": "Hp 2",
+      "bezeichnung": "Langsamfahrt (Eisenbahn-Style)",
+      "bedeutung": "Langsamfahrt",
+      "kategorie": "Regional",
+      "farbe": "Gelb",
+      "symbol": "Licht",
+      "regelwerk": "DFStrab"
+    },
+    {
+      "kurzzeichen": "Hp 3",
+      "bezeichnung": "Halt erwarten (Köln)",
+      "bedeutung": "Halt erwarten",
+      "kategorie": "Regional",
+      "beschreibung": "Gelb",
+      "farbe": "Gelb",
+      "symbol": "Licht",
+      "regional": "Köln",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "X 01",
+      "bezeichnung": "Regional-Signal X01",
+      "bedeutung": "Regionale Variante",
+      "kategorie": "Regional",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "X 02",
+      "bezeichnung": "Regional-Signal X02",
+      "bedeutung": "Regionale Variante",
+      "kategorie": "Regional",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "X 03",
+      "bezeichnung": "Regional-Signal X03",
+      "bedeutung": "Regionale Variante",
+      "kategorie": "Regional",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "X 05",
+      "bezeichnung": "Regional-Signal X05",
+      "bedeutung": "Regionale Variante",
+      "kategorie": "Regional",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "X 07",
+      "bezeichnung": "Regional-Signal X07",
+      "bedeutung": "Regionale Variante",
+      "kategorie": "Regional",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "X 08",
+      "bezeichnung": "Regional-Signal X08",
+      "bedeutung": "Regionale Variante",
+      "kategorie": "Regional",
+      "regelwerk": "Regional"
+    },
+    {
+      "kurzzeichen": "W 0 + W 13",
+      "bezeichnung": "Weichen-Kombination",
+      "bedeutung": "Zwei Weichen hintereinander",
+      "kategorie": "Kombinationen",
+      "beschreibung": "W0 und W13 zusammen",
+      "symbol": "Kombination"
+    },
+    {
+      "kurzzeichen": "W 13 + W 13",
+      "bezeichnung": "Doppel-Weiche",
+      "bedeutung": "Zwei Weichen nach links",
+      "kategorie": "Kombinationen",
+      "beschreibung": "Zwei W13",
+      "symbol": "Doppel"
+    },
+    {
+      "kurzzeichen": "3× F 0",
+      "bezeichnung": "Dreifach Halt",
+      "bedeutung": "Drei Halt-Signale nebeneinander",
+      "kategorie": "Kombinationen",
+      "beschreibung": "Drei F0",
+      "symbol": "Dreifach"
+    }
+  ]
+}
