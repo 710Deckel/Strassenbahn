@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- DOCTYPE and viewBox fix by in[k]firmary (http://inkfirmary.48design.de) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="100%"
+   height="100%"
+   id="svg2"
+   viewBox="0 0 20 71">
+  <defs
+     id="defs4" />
+  <rect
+     width="20"
+     height="32"
+     x="0"
+     y="0"
+     id="rect2383"
+     style="fill:#8c8c8c;fill-opacity:1;stroke:none" />
+  <path
+     d="m 17,9.9999996 a 7,7 0 1 1 -14,0 7,7 0 1 1 14,0 z"
+     id="path3155"
+     style="fill:#666666;fill-opacity:1;stroke:#000000;stroke-width:0.99999994;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <rect
+     width="6.75"
+     height="36.75"
+     x="6.625"
+     y="34.125"
+     id="rect2826"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25;stroke-opacity:1" />
+  <path
+     d="m 6.6503863,34.138876 6.7224937,3.567547 0,-3.567547 -6.7224937,0 z m -0.033612,6.452606 0,6.855893 6.7561057,3.598569 0,-6.886916 -6.7561057,-3.567546 z m 0,13.308499 0,6.886916 6.7561057,3.598568 0,-6.886915 -6.7561057,-3.598569 z m 0,13.370544 0,3.598568 6.7224937,0 -6.7224937,-3.598568 z"
+     id="path2828"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:6;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+</svg>

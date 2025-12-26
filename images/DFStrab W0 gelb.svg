@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- DOCTYPE and viewBox fix by in[k]firmary (http://inkfirmary.48design.de) -->
+
+<svg
+   version="1.0"
+   width="100%"
+   height="100%"
+   viewBox="0 0 50 50"
+   id="svg2"
+   style="display:inline"
+   sodipodi:docname="BOStrab W0 gelb.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="16.42"
+     inkscape:cx="25"
+     inkscape:cy="29.872107"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs5" />
+  <path
+     d="m 45.000009,24.999994 a 20.000004,20 0 0 1 -40.0000086,0 20.000004,20 0 1 1 40.0000086,0 z"
+     id="path3158"
+     style="fill:#000000;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+  <g
+     id="g3"
+     transform="translate(0.1140047,-0.456506)">
+    <g
+       id="g2"
+       transform="translate(0.11264361)">
+      <path
+         d="m 15.417356,34.814 18.712,-18.715"
+         id="path2821"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffd42a;stroke-width:5.85784;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <path
+       d="M 15.53,16.099 34.242,34.814"
+       id="path2821-1"
+       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffd42a;stroke-width:5.86068;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="" />
+    </rdf:RDF>
+  </metadata>
+</svg>

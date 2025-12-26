@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- DOCTYPE and viewBox fix by in[k]firmary (http://inkfirmary.48design.de) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="100%"
+   height="100%"
+   viewBox="0 0 50 50"
+   id="svg2"
+   style="display:inline">
+  <defs
+     id="defs5" />
+  <rect
+     width="40"
+     height="40"
+     x="5"
+     y="5"
+     id="rect3591"
+     style="fill:#003399;fill-opacity:1;stroke:none" />
+  <path
+     d="m 13.45888,38.822942 -6.6003125,-27.645884 5.7139845,0 4.167627,18.990045 5.053954,-18.990045 6.638029,0 4.846516,19.310631 4.243059,-19.310631 5.619695,0 -6.713462,27.645884 -5.921424,0 -5.506547,-20.66841 -5.487689,20.66841 z"
+     id="path2818"
+     style="font-size:38.6212616px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial Bold" />
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- DOCTYPE and viewBox fix by in[k]firmary (http://inkfirmary.48design.de) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="100%"
+   height="100%"
+   viewBox="0 0 50 50"
+   id="svg2"
+   style="display:inline">
+  <defs
+     id="defs5" />
+  <rect
+     width="40"
+     height="40"
+     x="5"
+     y="5"
+     id="rect3591"
+     style="fill:#ffff00;fill-opacity:1;stroke:none" />
+  <path
+     d="M 5,5 5,10.6875 19.3125,25 5,39.3125 5,45 10.6875,45 25,30.6875 39.3125,45 45,45 45,39.3125 30.6875,25 45,10.6875 45,5 39.3125,5 25,19.3125 10.6875,5 5,5 z"
+     id="path3650"
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#008000;fill-opacity:1;stroke:none;stroke-width:8;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Sans;-inkscape-font-specification:Bitstream Vera Sans" />
+</svg>

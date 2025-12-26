@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- DOCTYPE and viewBox fix by in[k]firmary (http://inkfirmary.48design.de) -->
+
+<svg
+   version="1.0"
+   width="100%"
+   height="100%"
+   viewBox="0 0 50 50"
+   id="svg2"
+   style="display:inline"
+   sodipodi:docname="BOStrab_Sh7_white.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview422"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="14.38"
+     inkscape:cx="25"
+     inkscape:cy="25"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs5" />
+  <rect
+     width="31.5"
+     height="45.5"
+     x="9.25"
+     y="2.25"
+     id="rect2816"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-opacity:1" />
+  <path
+     d="M 13.738281,42.179687 V 7.8203125 h 5.671875 V 21.34375 h 11.15625 V 7.8203125 h 5.695313 V 42.179687 H 30.566406 V 27.15625 h -11.15625 v 15.023437 z"
+     id="path2816"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48px;line-height:125%;font-family:'Arial Narrow';-inkscape-font-specification:'Arial Narrow Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:nodetypes="ccccccccccccc" />
+</svg>
